@@ -1,2 +1,4 @@
 # EDA
-Exploratory Data Analysis With Python and Pandas
+This has followed the "Exploratory Data Analysis With Python and Pandas" in Coursera. 
+
+
